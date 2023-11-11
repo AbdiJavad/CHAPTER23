@@ -80,7 +80,6 @@ public class SortLargeFile {
                                          DataInputStream f1, DataInputStream f2,
                                          DataOutputStream f3) throws Exception {
     }
-
     public static void displayFile(String filename) {
         try {
             DataInputStream input =
